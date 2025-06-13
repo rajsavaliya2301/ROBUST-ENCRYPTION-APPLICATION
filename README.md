@@ -1,3 +1,16 @@
+Company Name : CODETECH IT SOLUTIONS
+
+Name : Savaliya Raj Navalbhai
+
+Intern ID : CT04DM157
+
+Domain : Cyber Security & Ethical Hacking
+
+Duration : 4 weeks
+
+Mentor : Neela Santosh
+
+
 # ROBUST-ENCRYPTION-APPLICATION
 A TOOL TO ENCRYPT AND  DECRYPT FILES USING ADVANCED  ALGORITHMS LIKE AES-256
 
